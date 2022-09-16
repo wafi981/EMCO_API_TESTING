@@ -4,7 +4,7 @@ REQUIREMENTS:
 
 A kubernetes cluster with EMCO running over it.
 
-(kubeadm cluster)[https://github.com/wafi981/Kubeadm-Cluster]
+[kubeadm cluster](https://github.com/wafi981/Kubeadm-Cluster)
 
 
 
