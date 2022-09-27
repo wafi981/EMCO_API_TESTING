@@ -14,4 +14,5 @@ A kubernetes cluster with EMCO running over it.
 examples/singlecluster/config:
 LOGICAL_CLOUD_LEVEL=privileged
 
-
+# For ubuntu 20.04
+ sudo apt-get install python-is-python3
